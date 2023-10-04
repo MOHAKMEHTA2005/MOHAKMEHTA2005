@@ -11,15 +11,11 @@
 
 - 🌱 I’m currently learning **Java, Flutter.**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
-
-- 📖 My Daily Blogs [Coming Soon](Coming Soon)
+- 📖 My Daily Blogs [https://mohakkekisse.blogspot.com](https://mohakkekisse.blogspot.com)
 
 - 💬 Ask me about **Tech...**
 
 - 📫 How to reach me **business.mohakmehta@rediffmail.com**
-
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
 
