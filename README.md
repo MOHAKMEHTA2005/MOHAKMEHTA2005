@@ -7,15 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/ytdevilgamingyt" target="blank"><img src="https://img.shields.io/twitter/follow/ytdevilgamingyt?logo=twitter&style=for-the-badge" alt="ytdevilgamingyt" /></a> </p>
 
-- 🔭 I’m currently working on **Android Application**
+- 🔭 I’m currently working on **Android Applications**
 
 - 🌱 I’m currently learning **Java, Flutter.**
 
-- 💬 Ask me about **To be put up**
+- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+
+- 📖 My Daily Blogs [Coming Soon](Coming Soon)
+
+- 💬 Ask me about **Tech...**
 
 - 📫 How to reach me **business.mohakmehta@rediffmail.com**
 
-- ⚡ Fun fact **To be put up**
+- 📄 Know about my experiences [Coming Soon](Coming Soon)
+
+- ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
