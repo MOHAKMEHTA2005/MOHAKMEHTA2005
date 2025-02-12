@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHAKMEHTA2005](https://github.com/MOHAKMEHTA2005)
 
-- 💬 Ask me about **Python, C, C++, SQL, HTML, CSS, JavaScript.**
+- 💬 Ask me about **C, C++, Python, SQL, Frontend Development, Machine Learning.**
 
 - 📫 How to reach me **business.mohakmehta2005@rediffmail.com**
 
