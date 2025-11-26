@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mohak Mehta</h1>
-<h3 align="center">A Passionate Frontend Developer and Skilled Machine Learner from India.</h3>
+<h3 align="center">A Passionate Backend Developer and Skilled Machine Learner from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohakmehta2005&label=Profile%20views&color=0e75b6&style=flat" alt="mohakmehta2005" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ytdevilgamingyt" target="blank"><img src="https://img.shields.io/twitter/follow/ytdevilgamingyt?logo=twitter&style=for-the-badge" alt="ytdevilgamingyt" /></a> </p>
 
-- 🔭 I’m currently working on **Web and Stuff...**
+- 🔭 I’m currently working on **Projects and Placement Preparation.**
 
-- 🌱 I’m currently learning **Many Courses and Completing Certifications.**
+- 🌱 I’m currently learning **DSA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MOHAKMEHTA2005](https://github.com/MOHAKMEHTA2005)
 
-- 💬 Ask me about **C, C++, Python, SQL, Frontend Development, Machine Learning.**
+- 💬 Ask me about **C, C++, Python, MySQL, PostgreSQL, Web and Backend Development, Machine Learning.**
 
 - 📫 How to reach me **business.mohakmehta2005@rediffmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohakmehta2005/](https://www.linkedin.com/in/mohakmehta2005/)
 
-- ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
+- ⚡ A fact **I'm actually COMMITTED, uhm, to my projects, debugging and my career obviously.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
